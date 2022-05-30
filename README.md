@@ -1,9 +1,9 @@
 # BOJ baekjoon online judge
-## :pensil2 백준 알고리즘 공부하기(Python)
+## :pencil2: 백준 알고리즘 공부하기(Python)
 
 1) 깃허브+백준 연동  
 - 문제 풀 때마다 문제지와 정답지 자동 업로드 할 수 있도록 연동  
-[백준허브]https://github.com/BaekjoonHub/BaekjoonHub  
+[백준허브](https://github.com/BaekjoonHub/BaekjoonHub)   
 [백준허브 소개]https://velog.io/@flaxinger/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95  
 
 2) 백준에서 내 코드 다운로드
