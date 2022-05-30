@@ -1,5 +1,5 @@
 # BOJ baekjoon online judge
-## :pensil2: 백준 알고리즘 공부하기(Python)
+## :pensil2 백준 알고리즘 공부하기(Python)
 
 1) 깃허브+백준 연동  
 - 문제 풀 때마다 문제지와 정답지 자동 업로드 할 수 있도록 연동  
