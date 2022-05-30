@@ -1,4 +1,4 @@
-# BOJ baekjoon online judge
+# BOJ _ *baekjoon online judge*
 ## :pencil2: 백준 알고리즘 공부하기(Python)
 
 1) 깃허브+백준 연동  
